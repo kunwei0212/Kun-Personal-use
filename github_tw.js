@@ -388,7 +388,7 @@ I18N.zh["pubilc"] = { // 公共區域翻譯
             "Jump to": "跳轉到",
 
         // 左上角下拉欄 (已登錄)
-            "Home": "主頁",
+            "Home": "主頁測試",
             "Issues": "議題",
             "Pull Requests": "拉取請求",
             "Projects": "項目",
